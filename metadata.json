@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Muhadatsah AN-NUR",
+  "description": "Aplikasi bahan ajar muhadatsah (percakapan bahasa Arab) interaktif untuk siswa MTs AN-NUR Marikurubu Kota Ternate, dilengkapi dengan fitur perekam suara dan kamus kosakata interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

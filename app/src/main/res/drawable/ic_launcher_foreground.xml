@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left Speech Bubble representing Al-Muhadatsah (Conversation) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,32 h22 c2.5,0 4.5,2 4.5,4.5 v12 c0,2.5 -2,4.5 -4.5,4.5 h-4.5 l-5.5,5.5 v-5.5 h-12 c-2.5,0 -4.5,-2 -4.5,-4.5 v-12 c0,-2.5 2,-4.5 4.5,-4.5 z" />
+
+    <!-- Right Chat Bubble showing translation interaction -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M73,39 h-12 v-2 c0,-2 -1.5,-3 -3,-3 h-10 c1.5,-2 4,-3 7,-3 h18 c2.5,0 4.5,2 4.5,4.5 v10 c0,2.5 -2,4.5 -4.5,4.5 z" />
+
+    <!-- Left Book Page (representing study/Ar-Risalah) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,64 c0,-3 3,-3 6,-3 h18 v18 h-18 c-3,0 -6,1 -6,3 v-18 z" />
+
+    <!-- Right Book Page -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M78,64 c0,-3 -3,-3 -6,-3 h-18 v18 h18 c3,0 6,1 6,3 v-18 z" />
+
+    <!-- Elegant Middle Ribbon / Holy Bookmark -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M52,61 h4 v14 l-2,-2 l-2,2 z" />
+</vector>
